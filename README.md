@@ -11,3 +11,4 @@ Please open issues or email the chairs.
 
 We use the W3C Calendar to record upcoming and past events.
 Find our events at <https://www.w3.org/groups/cg/webagents/calendar/>.
+Regular meetings will take place soon.
